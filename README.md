@@ -19,7 +19,7 @@ const franciscoVivas = {
         databases: ["mongoDB"],
     },
     currentlyLearing: ["TypeScript", "Redux", "React Native"],
-    funFact: "Black coffee, fresh baked bread, pepperoni pizza + BBQ & chocolate donuts."
+    funFact: "Black coffee, fresh baked bread, pepperoni pizza + BBQ & chocolate donuts.",
     contactMe: {
         email: "franciscovivas.codes@gmail.com",
         linkedIn: "https://www.linkedin.com/in/vivas-francisco",
