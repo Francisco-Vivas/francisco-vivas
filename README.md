@@ -1,28 +1,31 @@
 ### Hello, world! 🦊
 
-<!--
-**Francisco-Vivas/francisco-vivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!-- **Francisco-Vivas/francisco-vivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h3>
-  
 ```javascript
 const franciscoVivas = {
-    code: ["JavaScript", "MATLAB"],
-    askMeAbout: ["Web Dev", "Acoustics", "Linux", "Music"],
-    technologies: {
+    askMeAbout: ["Web Dev", "Linux", "Music"],
+    knowledge: {
+        languages: ["JavaScript", "TypeScript", "Python", "Matlab"],
         frontEnd: {
-            js: "react",
-            css: ["bootstrap", "ant design"],
+            libraries: "React",
+            frameworks: ["Next", "Gatsby"],
+            tools: ["Redux"]
+            css: ["tailwindcss", "material-ui", "bootstrap", "ant design", "bulma"],
         },
         backEnd: {
-            js: ["node", "express", "mongoose"],
+            techStack: ["node", "express", "mongoose"],
+            CMRs: ["Keystone"],
         },
-        databases: ["mongoDB"],
+        testing: ["Jest", "Jazmine"],
+        toConnect: ["REST API", "graphql", "websockets"],
+        databases: ["MongoDB", "Postgres"],
+        cicd: ["AWS", "serverless", "Docker", "Apache Kafka", "Terraform"],
     },
-    currentlyLearing: ["TypeScript", "Redux", "React Native"],
+    currentlyLearing: ["Rust", "React Native"],
     funFact: "Black coffee, fresh baked bread, pepperoni pizza + BBQ & chocolate donuts.",
     contactMe: {
         email: "franciscovivas.codes@gmail.com",
-        linkedIn: "https://www.linkedin.com/in/vivas-francisco",
         twitter: "@francisco_codes"
     }
 };
