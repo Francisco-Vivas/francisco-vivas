@@ -26,8 +26,7 @@ const franciscoVivas = {
     currentlyLearing: ["Rust", "React Native"],
     funFact: "Black coffee, fresh baked bread, pepperoni pizza + BBQ & chocolate donuts.",
     contactMe: {
-        email: "franciscovivas.codes@gmail.com",
-        twitter: "@francisco_codes"
+        twitter: "@francisco_codes",
     }
 };
 ```
