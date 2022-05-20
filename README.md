@@ -1,7 +1,7 @@
-### Hello, world! 🦊
+## Hello World! 🦊
 
 <!-- **Francisco-Vivas/francisco-vivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h3>
+<h4>
     
 ```javascript
 const franciscoVivas = {
@@ -11,8 +11,8 @@ const franciscoVivas = {
         frontEnd: {
             libraries: "React",
             frameworks: ["Next", "Gatsby"],
-            tools: ["Redux"]
-            css: ["tailwindcss", "material-ui", "bootstrap", "ant design", "bulma"],
+            tools: ["Redux"],
+            css: ["css-modules","tailwindcss", "material-ui", "bootstrap", "ant design", "bulma"],
         },
         backEnd: {
             techStack: ["node", "express", "mongoose"],
@@ -30,4 +30,4 @@ const franciscoVivas = {
     }
 };
 ```
-</h3>
+</h4>
